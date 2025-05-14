@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35931.197 d17.13
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Game", "Game\Game.vcxproj", "{C4076097-AFE0-4C64-A992-30FA7E2085EC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class1th (Pseudo Random Number)", "Class1th (Pseudo Random Number)\Class1th (Pseudo Random Number).vcxproj", "{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class2th (GetAsyncKeyState)", "Class2th (GetAsyncKeyState)\Class2th (GetAsyncKeyState).vcxproj", "{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,22 @@ Global
 		{C4076097-AFE0-4C64-A992-30FA7E2085EC}.Release|x64.Build.0 = Release|x64
 		{C4076097-AFE0-4C64-A992-30FA7E2085EC}.Release|x86.ActiveCfg = Release|Win32
 		{C4076097-AFE0-4C64-A992-30FA7E2085EC}.Release|x86.Build.0 = Release|Win32
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Debug|x64.ActiveCfg = Debug|x64
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Debug|x64.Build.0 = Debug|x64
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Debug|x86.ActiveCfg = Debug|Win32
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Debug|x86.Build.0 = Debug|Win32
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Release|x64.ActiveCfg = Release|x64
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Release|x64.Build.0 = Release|x64
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Release|x86.ActiveCfg = Release|Win32
+		{5F3FE6C8-F8EA-4523-B2DE-1F48186655B6}.Release|x86.Build.0 = Release|Win32
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Debug|x64.ActiveCfg = Debug|x64
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Debug|x64.Build.0 = Debug|x64
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Debug|x86.ActiveCfg = Debug|Win32
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Debug|x86.Build.0 = Debug|Win32
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Release|x64.ActiveCfg = Release|x64
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Release|x64.Build.0 = Release|x64
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Release|x86.ActiveCfg = Release|Win32
+		{44184AC0-18EA-4C98-9AE6-1647BC3AE7E5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
