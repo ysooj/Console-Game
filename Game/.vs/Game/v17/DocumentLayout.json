@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F75E7DD-3461-4D6F-A048-D1AABDCE0A4F}|Class5th (File Input \u0026 Output)\\Class5th (File Input \u0026 Output).vcxproj|C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Class5th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{7F75E7DD-3461-4D6F-A048-D1AABDCE0A4F}|Class5th (File Input \u0026 Output)\\Class5th (File Input \u0026 Output).vcxproj|solutionrelative:Class5th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4076097-AFE0-4C64-A992-30FA7E2085EC}|Game\\Game.vcxproj|C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Game\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C4076097-AFE0-4C64-A992-30FA7E2085EC}|Game\\Game.vcxproj|solutionrelative:Game\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F75E7DD-3461-4D6F-A048-D1AABDCE0A4F}|Class5th (File Input \u0026 Output)\\Class5th (File Input \u0026 Output).vcxproj|C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Class5th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7F75E7DD-3461-4D6F-A048-D1AABDCE0A4F}|Class5th (File Input \u0026 Output)\\Class5th (File Input \u0026 Output).vcxproj|solutionrelative:Class5th (File Input \u0026 Output)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6ADB64CD-D7DA-4FD9-BFE6-73EDA93FF32D}|Class3th (Mouse)\\Class3th (Mouse).vcxproj|C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Class3th (Mouse)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Class5th (File Input \u0026 Output)\\Source.c",
               "RelativeDocumentMoniker": "Class5th (File Input \u0026 Output)\\Source.c",
@@ -63,8 +63,7 @@
               "RelativeToolTip": "Class4th (Enumeration)\\Source.c",
               "ViewState": "AgIAACMAAAAAAAAAAAAwwD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-16T11:05:52.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-16T11:05:52.918Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Class3th (Mouse)\\Source.c",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-15T11:47:28.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T11:47:28.132Z"
             },
             {
               "$type": "Document",
@@ -105,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Game\\Source.c",
               "RelativeDocumentMoniker": "Game\\Source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Console-Game\\Game\\Game\\Source.c",
               "RelativeToolTip": "Game\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-05-14T06:47:51.269Z",
               "EditorCaption": ""
